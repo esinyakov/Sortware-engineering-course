@@ -1,0 +1,67 @@
+C:\users\sinya\source\git\10\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\users\sinya\source\git\10\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\users\sinya\source\git\10\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\users\sinya\source\git\10\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\users\sinya\source\git\10\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\users\sinya\source\git\10\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\users\sinya\source\git\10\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\users\sinya\source\git\10\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\users\sinya\source\git\10\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\users\sinya\source\git\10\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\users\sinya\source\git\10\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\10 final\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\after deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\users\sinya\source\git\afterdeployment\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\users\sinya\source\git\afdep\sportsstore\sportsstore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

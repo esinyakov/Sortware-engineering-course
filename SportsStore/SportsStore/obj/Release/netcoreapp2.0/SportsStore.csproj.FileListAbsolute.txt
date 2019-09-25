@@ -1,0 +1,12 @@
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.deps.json
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.pdb
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.dll
+C:\Users\sinya\source\git\afdep\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.pdb
