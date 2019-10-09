@@ -1,0 +1,11 @@
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\bin\Debug\netcoreapp3.0\Deikstra.exe
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\bin\Debug\netcoreapp3.0\Deikstra.deps.json
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\bin\Debug\netcoreapp3.0\Deikstra.runtimeconfig.json
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\bin\Debug\netcoreapp3.0\Deikstra.runtimeconfig.dev.json
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\bin\Debug\netcoreapp3.0\Deikstra.dll
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\bin\Debug\netcoreapp3.0\Deikstra.pdb
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\obj\Debug\netcoreapp3.0\Deikstra.csprojAssemblyReference.cache
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\obj\Debug\netcoreapp3.0\Deikstra.AssemblyInfoInputs.cache
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\obj\Debug\netcoreapp3.0\Deikstra.AssemblyInfo.cs
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\obj\Debug\netcoreapp3.0\Deikstra.dll
+C:\Users\sinya\OneDrive\Документы\База знаний\2сем\ПрограмИнж\Deikstra\Deikstra\obj\Debug\netcoreapp3.0\Deikstra.pdb
