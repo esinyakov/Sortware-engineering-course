@@ -1,0 +1,11 @@
+C:\Users\sinya\source\repos\Deikstr\Deikstr\bin\Debug\netcoreapp3.0\Deikstr.exe
+C:\Users\sinya\source\repos\Deikstr\Deikstr\bin\Debug\netcoreapp3.0\Deikstr.deps.json
+C:\Users\sinya\source\repos\Deikstr\Deikstr\bin\Debug\netcoreapp3.0\Deikstr.runtimeconfig.json
+C:\Users\sinya\source\repos\Deikstr\Deikstr\bin\Debug\netcoreapp3.0\Deikstr.runtimeconfig.dev.json
+C:\Users\sinya\source\repos\Deikstr\Deikstr\bin\Debug\netcoreapp3.0\Deikstr.dll
+C:\Users\sinya\source\repos\Deikstr\Deikstr\bin\Debug\netcoreapp3.0\Deikstr.pdb
+C:\Users\sinya\source\repos\Deikstr\Deikstr\obj\Debug\netcoreapp3.0\Deikstr.csprojAssemblyReference.cache
+C:\Users\sinya\source\repos\Deikstr\Deikstr\obj\Debug\netcoreapp3.0\Deikstr.AssemblyInfoInputs.cache
+C:\Users\sinya\source\repos\Deikstr\Deikstr\obj\Debug\netcoreapp3.0\Deikstr.AssemblyInfo.cs
+C:\Users\sinya\source\repos\Deikstr\Deikstr\obj\Debug\netcoreapp3.0\Deikstr.dll
+C:\Users\sinya\source\repos\Deikstr\Deikstr\obj\Debug\netcoreapp3.0\Deikstr.pdb
